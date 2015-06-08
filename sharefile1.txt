@@ -1,2 +1,3 @@
 user2 add a test string
 user1 add a test string
+user1 add a test string for branch merge
