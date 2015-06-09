@@ -2,3 +2,4 @@ user2 add a test string
 user1 add a test string
 user1 add a test string for branch merge
 user2 add a test string for merge test.
+add a string for testing patch function.
