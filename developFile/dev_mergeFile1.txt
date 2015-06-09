@@ -1,1 +1,2 @@
 add a string for the test
+edited on mergeTest2
