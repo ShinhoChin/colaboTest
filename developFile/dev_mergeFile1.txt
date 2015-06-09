@@ -1,0 +1,3 @@
+add a string for the test
+edited by dev
+edited on mergeTest2
